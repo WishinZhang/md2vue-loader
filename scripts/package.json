@@ -1,0 +1,23 @@
+{
+  "name": "@wxzhang/md2vue-loader",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "files": [
+    "lib/*",
+    "package.json"
+  ],
+  "dependencies": {
+    "@toycode/markdown-it-class": "^1.2.3",
+    "highlight.js": "^9.18.1",
+    "loader-utils": "^2.0.0",
+    "markdown-it": "^10.0.0",
+    "markdown-it-container": "^2.0.0",
+    "markdown-it-emoji": "^1.4.0"
+  },
+  "bugs": {
+    "url": "https://github.com/WishinZhang/md2vue-loader/issues"
+  },
+  "homepage": "https://github.com/WishinZhang/md2vue-loader",
+  "author": "WishinZhang",
+  "license": "MIT"
+}

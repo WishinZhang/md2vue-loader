@@ -25,7 +25,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style lang="less" scoped>
 .test {
   font-size: 16px;
   color: red;
